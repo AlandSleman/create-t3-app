@@ -172,6 +172,14 @@ const projects: App[] = [
     linkName: "cua-demo.vercel.app",
     link: "https://cua-demo.vercel.app/",
   },
+  
+  {
+    description: "Twitter clone - A simple Twitter clone built with T3 Stack",
+    repoName: "AlandSleman/t3-twitter-clone",
+    repo: "https://github.com/AlandSleman/t3-twitter-clone",
+    linkName: "twitter-clone.kurdmake.com",
+    link: "https://twitter-clone.kurdmake.com",
+  },
 ];
 
 export default function OpenSourceAppList({
